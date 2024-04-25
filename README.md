@@ -7,6 +7,6 @@
 <br>
 <br>
 
-<div align="center"^>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rogergsf&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rogergsf&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
