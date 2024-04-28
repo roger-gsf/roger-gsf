@@ -1,11 +1,8 @@
-<img width=100% bottom=50px src="https://github.com/rogergsf/rogergsf/assets/139197687/08cc1d1e-e61b-4c72-9cc1-822035aa3258"/>
-
+<img width=100% bottom=50px src="https://github.com/rogergsf/rogergsf/assets/139197687/e6fe2829-8254-4783-acd6-6c78ad0b6bcb"/>
 <br>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+I'm+Roger+Ferreira;I'm+18+years+old;I'm+a+Software+Developer;I'm+from+Brazil;Welcome!)](https://git.io/typing-svg)
-
-<br>
 
 <table>
   <a href="https://github.com/rogergsf">
