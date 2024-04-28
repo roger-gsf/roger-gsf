@@ -11,6 +11,7 @@
   <img height="182.07em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogergsf&layout=compact&langs_count=6&theme=tokyonight" alt="Principais Linguagens do GitHub">
 </div>
     <div align="center">
+      <img src="https://github.com/rogergsf/rogergsf/assets/139197687/22b6940d-1dbf-42e0-9a09-d994b3aa4510" width="120" alt="Java">
 <!--   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js"> -->
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native"> -->
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
