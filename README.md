@@ -14,12 +14,11 @@
       <img src="https://github.com/rogergsf/rogergsf/assets/139197687/22b6940d-1dbf-42e0-9a09-d994b3aa4510" width="120" alt="Java">
 <!--   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js"> -->
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native"> -->
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" height="115" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="120" height="115" alt="CSS3">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="130" height="130" alt="JavaScript" align="top">
 <!--   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"> -->
-      <!-- Use o atributo vspace para adicionar margem superior -->
-<img id="TS" src="https://github.com/rogergsf/rogergsf/assets/139197687/2fcc5f2d-fb4d-4096-991b-0e608e594cec" width="115" alt="TypeScript" align="top">
+<img src="https://github.com/rogergsf/rogergsf/assets/139197687/2fcc5f2d-fb4d-4096-991b-0e608e594cec" width="120" alt="TypeScript">
 </table>
     </div>
 
