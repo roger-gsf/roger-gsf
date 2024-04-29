@@ -7,8 +7,8 @@
 <table>
   <a href="https://github.com/rogergsf">
 <div align="center">
-  <img height="182.07em" src="https://github-readme-stats.vercel.app/api?username=rogergsf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  <img height="182.07em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogergsf&layout=compact&langs_count=6&theme=tokyonight" alt="Principais Linguagens do GitHub">
+<!--   <img height="182.07em" src="https://github-readme-stats.vercel.app/api?username=rogergsf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github Stats"> -->
+  <img height="182.07em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogergsf&layout=compact&langs_count=6&theme=tokyonight" alt="Main GitHub Languages">
 </div>
     <div align="center">
       <img src="https://github.com/rogergsf/rogergsf/assets/139197687/22b6940d-1dbf-42e0-9a09-d994b3aa4510" width="120" alt="Java">
