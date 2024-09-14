@@ -7,7 +7,7 @@
 <table>
   <a href="https://github.com/rogergsf">
 <div align="center">
-<!--   <img height="182.07em" src="https://github-readme-stats.vercel.app/api?username=rogergsf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github Stats"> -->
+  <img height="182.07em" src="https://github-readme-stats.vercel.app/api?username=rogergsf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github Stats">
   <img height="182.07em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogergsf&layout=compact&langs_count=6&theme=tokyonight" alt="Main GitHub Languages">
 </div>
     <div align="center">
